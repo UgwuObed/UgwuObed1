@@ -22,6 +22,7 @@ body{
 a {
     color: inherit;
     text-decoration: inherit;
+    font-size: larger;
   }
 
   ::selection {
